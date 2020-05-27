@@ -17,10 +17,10 @@
 - Use more data, different columns in the dataframe
 - Use Stochastic Gradient Descent to update weights and bias
 ## Resources Used
-- [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html#binary-logistic-regression)
+- [Helpful guide that helped me get started coding the project](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html#binary-logistic-regression)
 - [Statistics of Logistic Regression](https://www.youtube.com/playlist?list=PLIeGtxpvyG-JmBQ9XoFD4rs-b3hkcX7Uu)
-- [Cross-Entropy Loss function](https://www.youtube.com/watch?v=MztgenIfGgM&list=PLXf4nYvqR6VMI_rsU0otM9KHmUBDhCGX_&index=4&t=0s)
-- [Good Video on Overall Math of Logistic Regression](https://www.youtube.com/watch?v=QHm0UDG6IU4&list=PLXf4nYvqR6VMI_rsU0otM9KHmUBDhCGX_&index=5&t=1435s)
+- [Cross-Entropy loss function](https://www.youtube.com/watch?v=MztgenIfGgM&list=PLXf4nYvqR6VMI_rsU0otM9KHmUBDhCGX_&index=4&t=0s)
+- [Good Video on overall math of Logistic Regression](https://www.youtube.com/watch?v=QHm0UDG6IU4&list=PLXf4nYvqR6VMI_rsU0otM9KHmUBDhCGX_&index=5&t=1435s)
 ## Other Links
 - Devpost Link for further background: https://devpost.com/software/n-a-ljwa0f
 - Dataset Link: https://www.kaggle.com/uciml/student-alcohol-consumption
