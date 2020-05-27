@@ -10,7 +10,13 @@
 ## Purpose of Logisitic Regression
 - to model the probability of an event occuring based on input values
 - classify new data to a class by estimating the probability it belongs in that class
+## Resources Used
+- [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html#binary-logistic-regression)
+- [Statistics of Logistic Regression](https://www.youtube.com/playlist?list=PLIeGtxpvyG-JmBQ9XoFD4rs-b3hkcX7Uu)
+- [Cross-Entropy Loss function](https://www.youtube.com/watch?v=MztgenIfGgM&list=PLXf4nYvqR6VMI_rsU0otM9KHmUBDhCGX_&index=4&t=0s)
+- [Good Video on Overall Math of Logistic Regression](https://www.youtube.com/watch?v=QHm0UDG6IU4&list=PLXf4nYvqR6VMI_rsU0otM9KHmUBDhCGX_&index=5&t=1435s)
+
+
 ## Other Links
 - Devpost Link for further background: https://devpost.com/software/n-a-ljwa0f
-- To run interactive demo, run [this script](/Interactive_Demo/Interactive.py) with an interactive environment but make sure all dependencies are there. All dependencies should be in [this folder](/Interactive_Demo)
 - Dataset Link: https://www.kaggle.com/uciml/student-alcohol-consumption
