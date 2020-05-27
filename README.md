@@ -11,7 +11,7 @@
 - to model the probability of an event occuring based on input values
 - classify new data to a class by estimating the probability it belongs in that class
 ## This Algorithm's Use
-- Determine if a student is going to pass a class or not given the student's lving circumstances as input
+- Determine if a student is going to pass a class or not given the student's living circumstances as input
 ## Potential Furture Directions
 - Ultilize a different loss function
 - Use more data, different columns in the dataframe
