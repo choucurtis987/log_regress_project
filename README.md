@@ -1,6 +1,6 @@
 # Logistic Regression Project
 - [Data Cleaning](/Data_Cleaning.ipynb)
-- [Logistic Regression Model](/Logistic_Regression_Model.ipynb) with a few of its features
+- [Logistic Regression Model](/Logistic_Regression_Model_Final.ipynb) with a few of its features
 ## My Logistic Regression Algorithm Built From Scratch 
 - A binary classification algorithm 
 - Utilizes Numpy as main component to essentially perform all the matrix multiplication needed
